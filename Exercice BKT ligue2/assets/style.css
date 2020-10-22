@@ -1,0 +1,43 @@
+.h3 {
+    color: #091c3e;
+
+}
+
+.table {
+    background-color: #e0e0e0;
+}
+
+.ligneParis{
+    background-color: #091c3e;
+    color: white;
+}
+
+.podium{
+    background-color: #ece7e7e5;
+}
+
+.CHAMBLY{
+    background-color:#b3b3b3;
+}
+
+.derniers{
+    background-color: #808080;
+}
+
+.greencolor {
+    color: #39eb39;
+    margin-left: 6%;
+}
+
+.redcolor {
+    color: red;
+    margin-left: 6%;
+}
+
+.graycolor {
+    color: gray;
+    margin-left: 6%;
+}
+.logo {
+	height: 2rem;
+}
