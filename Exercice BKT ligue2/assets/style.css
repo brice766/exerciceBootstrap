@@ -1,15 +1,26 @@
+
+td {
+   color:#091c3e;
+}
+
 .h3 {
     color: #091c3e;
 
 }
 
-.table {
+.position { 
+    font-size: 11px;
+}
+
+.container-fluid {
     background-color: #e0e0e0;
 }
 
-.ligneParis{
+.ligneParis {
     background-color: #091c3e;
-    color: white;
+}
+.ligneParis td {
+    color: white !important ;
 }
 
 .podium{
@@ -35,7 +46,7 @@
 }
 
 .graycolor {
-    color: gray;
+    color: #ABABAB;
     margin-left: 6%;
 }
 .logo {
