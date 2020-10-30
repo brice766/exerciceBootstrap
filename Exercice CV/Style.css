@@ -1,3 +1,77 @@
+.container-fix {
+    padding: 0 !important;
+}
+
 .titre {
     background-color: #677273;
+}
+
+h2 {
+    height: 15rem;
+}
+
+.Name {
+    font-family: 'Nova Oval', cursive;
+    color: white;
+}
+
+.bar {
+    background-color: white;
+    width: 34%;
+    height: 2%;
+}
+
+.bar-bleu {
+    background-color: blue;
+    width: 34%;
+    height: 1%;
+}
+
+.fa-spinner {
+    color: blue;
+}
+
+.fa-circle-notch {
+    color: purple;
+}
+
+.bar-violet {
+    background-color: purple;
+    width: 34%;
+    height: 2%;
+}
+
+.fa-cog {
+    color: orange;
+}
+
+.bar-orange {
+    background-color: orange;
+    width: 34%;
+    height: 2%;
+}
+
+.navbar {
+    background-color: #555d5e;
+}
+
+.nav-link {
+    color: #f8f8f8;
+}
+
+li {
+    list-style: none;
+}
+
+  .curved {
+    position: relative;
+    background: #f4f4f4;
+    height: 70vh;
+    border-bottom-left-radius: 50% 20%;
+  }
+    
+
+.col {
+    background-color: white;
+    height: 40vh;
 }
